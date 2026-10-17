@@ -29,7 +29,7 @@
 #ifndef IPA_IPV6CT_H
 #define IPA_IPV6CT_H
 
-#include <cstdint>
+#include <stdint.h>
 #include <stdint.h>
 
 /**

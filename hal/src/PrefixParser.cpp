@@ -28,7 +28,7 @@
  */
 /* External Includes */
 #include <string>
-#include <cstdint>
+#include <stdint.h>
 #include <arpa/inet.h>
 #include <netinet/in.h>
 #include <netinet/ip.h>

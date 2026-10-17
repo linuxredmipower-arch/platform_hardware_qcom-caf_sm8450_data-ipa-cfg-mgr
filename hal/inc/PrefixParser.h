@@ -31,7 +31,7 @@
 
 /* External Includes */
 #include <string>
-#include <cstdint>
+#include <stdint.h>
 #include <string.h>
 #include <sys/types.h>
 #include <vector>

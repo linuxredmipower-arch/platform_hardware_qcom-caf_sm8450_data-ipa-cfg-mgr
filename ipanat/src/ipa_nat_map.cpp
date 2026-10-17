@@ -27,8 +27,8 @@
  * IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 #include <utility>
-#include <cstdio>
-#include <cstdint>
+#include <stdio.h>
+#include <stdint.h>
 #include <map>
 #include <iterator>
 

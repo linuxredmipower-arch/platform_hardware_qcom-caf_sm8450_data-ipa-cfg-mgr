@@ -30,7 +30,7 @@
 #define _I_OFFLOAD_MANAGER_H_
 
 /* External Includes */
-#include <cstdint>
+#include <stdint.h>
 #include <sys/types.h>
 
 /* Internal Includes */

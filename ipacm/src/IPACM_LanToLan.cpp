@@ -74,9 +74,9 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
 #include <list>
-#include <cstring>
-#include <cstdio>
-#include <cstdint>
+#include <string.h>
+#include <stdio.h>
+#include <stdint.h>
 #include <stdlib.h>
 #include "IPACM_LanToLan.h"
 #include "IPACM_Wlan.h"

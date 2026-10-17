@@ -34,8 +34,8 @@
  *
  * ===========================================================================
  */
-#include <cstdio>
-#include <cstdint>
+#include <stdio.h>
+#include <stdint.h>
 #include <stdio.h>
 #include <stdint.h>
 #include <stdbool.h>

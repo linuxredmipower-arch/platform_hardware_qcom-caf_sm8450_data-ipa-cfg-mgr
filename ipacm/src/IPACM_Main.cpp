@@ -43,9 +43,9 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ******************************************************************************/
 
-#include <cstring>
-#include <cstdio>
-#include <cstdint>
+#include <string.h>
+#include <stdio.h>
+#include <stdint.h>
 #include <sys/socket.h>
 #include <signal.h>
 #include <fcntl.h>

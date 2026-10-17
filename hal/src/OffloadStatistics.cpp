@@ -27,7 +27,7 @@
  * IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 #include <string>
-#include <cstdint>
+#include <stdint.h>
 #include <string.h>
 #include <sys/types.h>
 

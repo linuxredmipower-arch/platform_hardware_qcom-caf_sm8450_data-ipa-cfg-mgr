@@ -33,7 +33,7 @@
 
 /* HIDL Includes */
 #include <map>
-#include <cstdint>
+#include <stdint.h>
 #include <hwbinder/IPCThreadState.h>
 #include <hwbinder/ProcessState.h>
 
@@ -42,7 +42,7 @@
 
 /* External Includes */
 #include <cutils/log.h>
-#include <cstring>
+#include <string.h>
 #include <sys/socket.h>
 #include <sys/types.h>
 #include <vector>

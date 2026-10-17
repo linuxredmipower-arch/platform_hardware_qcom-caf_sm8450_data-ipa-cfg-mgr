@@ -29,7 +29,7 @@
 #if !defined(_IPA_NATI_MAP_H_)
 # define _IPA_NATI_MAP_H_
 
-#include <cstdint>
+#include <stdint.h>
 #include <stdint.h>
 
 # ifdef __cplusplus
