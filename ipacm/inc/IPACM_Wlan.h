@@ -40,6 +40,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef IPACM_WLAN_H
 #define IPACM_WLAN_H
 
+#include <cstdint>
 #include <stdio.h>
 #include <IPACM_CmdQueue.h>
 #include <linux/msm_ipa.h>

@@ -29,6 +29,7 @@
 #ifndef _LOCAL_LOG_BUFFER_H_
 #define _LOCAL_LOG_BUFFER_H_
 /* External Includes */
+#include <cstdint>
 #include <deque>
 #include <sstream>
 #include <string>

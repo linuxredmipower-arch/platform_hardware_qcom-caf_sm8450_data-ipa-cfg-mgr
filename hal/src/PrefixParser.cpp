@@ -27,6 +27,8 @@
  * IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 /* External Includes */
+#include <string>
+#include <cstdint>
 #include <arpa/inet.h>
 #include <netinet/in.h>
 #include <netinet/ip.h>

@@ -29,6 +29,8 @@
 #ifndef IPA_NAT_DRV_H
 #define IPA_NAT_DRV_H
 
+#include <cstdio>
+#include <cstdint>
 #include "ipa_nat_utils.h"
 
 #include <stdint.h>  /* uint32_t */

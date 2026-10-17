@@ -37,6 +37,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 	Skylar Chang
 
 */
+#include <cstring>
 #include <string.h>
 #include <sys/ioctl.h>
 

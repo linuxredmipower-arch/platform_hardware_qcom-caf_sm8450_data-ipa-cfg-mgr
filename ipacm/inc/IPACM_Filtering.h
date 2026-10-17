@@ -42,6 +42,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef IPACM_FILTERING_H
 #define IPACM_FILTERING_H
 
+#include <cstdint>
 #include <stdint.h>
 #include <linux/msm_ipa.h>
 #include <IPACM_Defs.h>

@@ -29,6 +29,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef IPACM_CONNTRACK_NATAPP_H
 #define IPACM_CONNTRACK_NATAPP_H
 
+#include <cstdint>
 #include <string.h>  /* for stderror */
 #include <stdlib.h>
 #include <cstdio>  /* for perror */

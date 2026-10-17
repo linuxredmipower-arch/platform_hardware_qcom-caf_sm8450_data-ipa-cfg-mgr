@@ -40,6 +40,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef IPACM_XML_H
 #define IPACM_XML_H
 
+#include <cstdio>
+#include <cstdint>
 #include <linux/msm_ipa.h>
 #include "IPACM_Defs.h"
 #include <stdio.h>

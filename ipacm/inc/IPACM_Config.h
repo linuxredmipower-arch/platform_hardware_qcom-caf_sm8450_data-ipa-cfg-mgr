@@ -40,6 +40,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef IPACM_CONFIG_H
 #define IPACM_CONFIG_H
 
+#include <cstdint>
 #include "IPACM_Defs.h"
 #include "IPACM_Xml.h"
 #include "IPACM_EvtDispatcher.h"

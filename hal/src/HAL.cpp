@@ -32,6 +32,8 @@
 #define LOG_TAG "IPAHALService"
 
 /* HIDL Includes */
+#include <map>
+#include <cstdint>
 #include <hwbinder/IPCThreadState.h>
 #include <hwbinder/ProcessState.h>
 

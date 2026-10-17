@@ -30,6 +30,8 @@
 #define _PREFIX_PARSER_H_
 
 /* External Includes */
+#include <string>
+#include <cstdint>
 #include <string.h>
 #include <sys/types.h>
 #include <vector>

@@ -29,6 +29,7 @@
 #ifndef _OFFLOAD_STATISTICS_H_
 #define _OFFLOAD_STATISTICS_H_
 
+#include <cstdint>
 #include <string>
 #include <sys/types.h>
 

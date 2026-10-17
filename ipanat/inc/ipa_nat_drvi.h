@@ -30,6 +30,8 @@
 #ifndef IPA_NAT_DRVI_H
 #define IPA_NAT_DRVI_H
 
+#include <cstdio>
+#include <cstdint>
 #include "ipa_table.h"
 #include "ipa_mem_descriptor.h"
 #include "ipa_nat_utils.h"

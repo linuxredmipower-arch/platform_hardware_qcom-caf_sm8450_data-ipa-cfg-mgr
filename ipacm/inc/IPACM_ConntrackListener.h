@@ -30,6 +30,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef IPACM_CONNTRACK_LISTENER
 #define IPACM_CONNTRACK_LISTENER
 
+#include <cstdint>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

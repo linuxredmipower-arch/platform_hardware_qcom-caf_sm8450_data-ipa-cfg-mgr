@@ -37,6 +37,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef IPACM_LANTOLAN_H
 #define IPACM_LANTOLAN_H
 
+#include <cstdint>
 #include <stdint.h>
 #include "linux/msm_ipa.h"
 #include "IPACM_Iface.h"

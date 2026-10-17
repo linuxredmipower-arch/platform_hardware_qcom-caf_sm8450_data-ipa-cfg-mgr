@@ -37,6 +37,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
    Skylar Chang/Shihuan Liu
 */
 
+#include <cstring>
+#include <cstdint>
 #include <sys/socket.h>
 #include <netinet/in.h>
 #ifndef in_addr_t

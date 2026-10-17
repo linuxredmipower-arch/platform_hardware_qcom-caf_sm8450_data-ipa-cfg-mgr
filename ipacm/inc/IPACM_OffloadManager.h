@@ -29,6 +29,9 @@
 #ifndef _IPACM_OFFLOAD_MANAGER_H_
 #define _IPACM_OFFLOAD_MANAGER_H_
 
+#include <vector>
+#include <string>
+#include <cstdint>
 #include <list>
 #include <stdint.h>
 #include <IOffloadManager.h>

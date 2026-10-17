@@ -45,6 +45,7 @@ extern "C"
 {
 #endif
 
+#include <cstdint>
 #include <stdio.h>
 #include <stdlib.h>
 #include <errno.h>

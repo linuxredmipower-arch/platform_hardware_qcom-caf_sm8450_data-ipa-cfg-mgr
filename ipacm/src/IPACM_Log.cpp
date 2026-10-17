@@ -37,6 +37,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 	Skylar Chang
 
 */
+#include <cstring>
+#include <cstdio>
 #include "IPACM_Log.h"
 #include <stdlib.h>
 #include <unistd.h>

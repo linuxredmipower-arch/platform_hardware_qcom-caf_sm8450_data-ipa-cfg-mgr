@@ -39,6 +39,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef IPACM_HEADER_H
 #define IPACM_HEADER_H
 
+#include <cstdint>
 #include <stdint.h>
 #include "linux/msm_ipa.h"
 

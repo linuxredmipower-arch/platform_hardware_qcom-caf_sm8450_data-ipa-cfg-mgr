@@ -36,6 +36,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 	@Author
 
 */
+#include <cstring>
+#include <cstdint>
 #include <string.h>
 #include <pthread.h>
 #include <IPACM_EvtDispatcher.h>

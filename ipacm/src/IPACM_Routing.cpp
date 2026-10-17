@@ -37,6 +37,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 */
 
+#include <cstring>
+#include <cstdint>
 #include <unistd.h>
 #include <sys/ioctl.h>
 #include <fcntl.h>

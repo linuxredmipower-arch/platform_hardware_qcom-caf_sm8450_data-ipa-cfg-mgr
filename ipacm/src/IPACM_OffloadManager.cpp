@@ -43,6 +43,11 @@ SPDX-License-Identifier: BSD-3-Clause-Clear
   Skylar Chang
 
 */
+#include <vector>
+#include <string>
+#include <cstring>
+#include <cstdint>
+#include <algorithm>
 #include <IPACM_OffloadManager.h>
 #include <sys/ioctl.h>
 #include <net/if.h>

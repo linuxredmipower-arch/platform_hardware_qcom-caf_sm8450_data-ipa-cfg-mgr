@@ -38,6 +38,9 @@ Skylar Chang
 
 */
 
+#include <cstring>
+#include <cstdio>
+#include <cstdint>
 #include <string.h>
 #include <unistd.h>
 #include <sys/ioctl.h>

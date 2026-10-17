@@ -29,6 +29,7 @@
 #ifndef IPA_MEM_DESCRIPTOR_H
 #define IPA_MEM_DESCRIPTOR_H
 
+#include <cstdint>
 #include <stdint.h>
 #include <stdbool.h>
 #include <linux/msm_ipa.h>

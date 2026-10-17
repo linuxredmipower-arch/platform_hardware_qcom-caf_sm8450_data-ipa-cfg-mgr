@@ -37,6 +37,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.Z
   Skylar Chang
 
 */
+#include <cstring>
+#include <cstdint>
 #include <fcntl.h>
 #include <sys/ioctl.h>
 #include <IPACM_Netlink.h>

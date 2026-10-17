@@ -26,6 +26,8 @@ WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
 OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
 IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
+#include <cstring>
+#include <cstdint>
 #include "IPACM_Conntrack_NATApp.h"
 #include "IPACM_ConntrackClient.h"
 #include "IPACM_ConntrackListener.h"

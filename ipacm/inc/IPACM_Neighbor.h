@@ -40,6 +40,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef IPACM_NEIGHBOR_H
 #define IPACM_NEIGHBOR_H
 
+#include <cstdint>
 #include <stdio.h>
 #include <IPACM_CmdQueue.h>
 #include <linux/msm_ipa.h>

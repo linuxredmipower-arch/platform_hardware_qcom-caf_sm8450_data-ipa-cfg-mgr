@@ -30,6 +30,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef IPACM_CONNTRACK_FILTER_H
 #define IPACM_CONNTRACK_FILTER_H
 
+#include <cstdint>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

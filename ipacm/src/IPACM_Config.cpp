@@ -37,6 +37,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 		Skylar Chang
 
 */
+#include <cstring>
+#include <cstdint>
 #include <IPACM_Config.h>
 #include <IPACM_Log.h>
 #include <IPACM_Iface.h>

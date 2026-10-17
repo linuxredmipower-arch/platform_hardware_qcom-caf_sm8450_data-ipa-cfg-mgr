@@ -29,6 +29,7 @@
 #ifndef IPA_IPV6CTI_H
 #define IPA_IPV6CTI_H
 
+#include <cstdint>
 #include "ipa_table.h"
 #include "ipa_mem_descriptor.h"
 #include "ipa_nat_utils.h"

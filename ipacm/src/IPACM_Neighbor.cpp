@@ -38,6 +38,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 */
 
+#include <cstring>
+#include <cstdint>
 #include <sys/ioctl.h>
 #include <IPACM_Neighbor.h>
 #include <IPACM_EvtDispatcher.h>

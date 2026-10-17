@@ -30,6 +30,8 @@
 #define _HAL_H_
 
 /* HIDL Includes */
+#include <map>
+#include <cstdint>
 #include <android/hardware/tetheroffload/config/1.0/IOffloadConfig.h>
 #include <android/hardware/tetheroffload/control/1.1/IOffloadControl.h>
 #include <hidl/HidlTransportSupport.h>

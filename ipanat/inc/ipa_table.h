@@ -29,6 +29,7 @@
 #ifndef IPA_TABLE_H
 #define IPA_TABLE_H
 
+#include <cstdint>
 #include <stdint.h>
 #include <stdbool.h>
 #include <linux/msm_ipa.h>
